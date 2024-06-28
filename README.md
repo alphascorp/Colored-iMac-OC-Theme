@@ -48,7 +48,7 @@
 
 
   - Colored_iMac :point_right: ([Download](https://github.com/alphascorp/Colored-iMac-OC-Theme/raw/main/Themes/Colored_iMac.zip))
-<p align="center"><img width="800" alt="Colored_iMac Screenshot" src="https://github.com/alphascorp/Colored-iMac-OC-Theme/raw/main/Screenshots/Bootscreen_Colored_iMac.jpg"></p>
+<p align="center"><img width="800" alt="Colored_iMac Screenshot" src="https://github.com/alphascorp/Colored-iMac-OC-Theme/raw/main/Screenshots/Bootscreen_Colored_iMac.gif"></p>
    
 
 ## Credits:
