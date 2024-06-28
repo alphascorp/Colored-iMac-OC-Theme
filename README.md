@@ -8,7 +8,7 @@
 
 ## :warning: First Use ➤  Change `config.plist` in `EFI/OC`
 
-### Set PickerVariant (Apple_jing_an theme for example)
+### Set PickerVariant (Colored_iMac theme for example)
 
 - Misc —> Boot —> PickerVariant: Alphascorp\Colored_iMac
 
@@ -47,8 +47,8 @@
 ## Apple themes view
 
 
-  - Apple_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/Colored-iMac-OC-Theme/raw/main/Themes/Colored_iMac.zip))
-<p align="center"><img width="800" alt="Colored_iMac Screenshot" src="https://github.com/alphascorp/Colored-iMac-OC-Theme/raw/main/Screenshots/Colored_iMac_BootView.jpg"></p>
+  - Colored_iMac :point_right: ([Download](https://github.com/alphascorp/Colored-iMac-OC-Theme/raw/main/Themes/Colored_iMac.zip))
+<p align="center"><img width="800" alt="Colored_iMac Screenshot" src="https://github.com/alphascorp/Colored-iMac-OC-Theme/raw/main/Screenshots/Bootscreen_Colored_iMac.jpg"></p>
    
 
 ## Credits:
